@@ -7,7 +7,7 @@ import { dark } from "@clerk/themes";
 import "../globals.css";
 
 export const metadata: Metadata = {
-  title: "Threads",
+  title: "Studex",
   description: "A Next.js 13 Meta Threads Application clone",
 };
 
